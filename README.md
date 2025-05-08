@@ -19,7 +19,7 @@ This project is a custom-built homepage created using the Phlox theme in WordPre
 - Designed for a generic demo business website
 
 ## **📸 Screenshots :-**
--Pages Of Phlox-Home-Page Website
+- Pages Of Phlox-Home-Page Website
 
 ## **📁 Files Included :-**
 - Screenshot of final design
