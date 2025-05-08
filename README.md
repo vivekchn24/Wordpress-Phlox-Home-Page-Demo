@@ -18,6 +18,10 @@ This project is a custom-built homepage created using the Phlox theme in WordPre
 ## **📁 Files Included :-**
 - Screenshot of final design
 
+## ⚙️ Environment
+- WordPress localhost using WAMPP
+- Tested on desktop browsers
+
 ## **📌 Note :-
 This project was developed locally using WAMPP for WordPress. Files are for reference and demonstration only.
 
